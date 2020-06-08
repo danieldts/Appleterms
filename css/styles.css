@@ -1,0 +1,16 @@
+body{
+	background-color:#f4f4f4;
+	color: #555555;
+	font-family: Areal, Helvetica,sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	/*same as above below is shorter version 
+	of the above*/
+	font: normal 16px Areal,Helvetica,sans-serif;
+	
+	line-height: 1.6em;
+	margin: 0;
+}
+.test{
+	color: red;
+}
