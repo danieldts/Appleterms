@@ -1,16 +1,17 @@
+
+}
+.container{
+	width: 80%;
+}
 body{
-	background-color:#f4f4f4;
-	color: #555555;
-	font-family: Areal, Helvetica,sans-serif;
-	font-size: 16px;
-	font-weight: normal;
-	/*same as above below is shorter version 
-	of the above*/
-	font: normal 16px Areal,Helvetica,sans-serif;
-	
-	line-height: 1.6em;
-	margin: 0;
-}
-.test{
-	color: red;
-}
+    font-size: 17px;
+    line-height: 1.4;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: sans-serif;
+    background-color: #fff;
+    color: #333;
+    font-style: normal;
+    margin: auto;
+    padding: 0 250px;
+    }
